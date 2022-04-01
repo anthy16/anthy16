@@ -3,7 +3,7 @@
 I'm Anders, a **software engineer** from Denmark.
 
 - 🔭 I’m currently working on a game! :video_game:
-- 🌱 I’m currently learning [Go](https://go.dev/).
+- 🌱 I’m currently learning [Next.js](https://nextjs.org/).
 - 💬 Ask me about web development and leadership in tech.
 
 [![GitHub Follow Badge](https://img.shields.io/github/followers/anthy16.svg?style=social&label=Follow&maxAge=2592000)]()
