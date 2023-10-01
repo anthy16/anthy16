@@ -1,5 +1,4 @@
 # Greetings! ✨
-<img src="https://gpvc.arturio.dev/anthy16" alt="Profile views" align='right'/> <a href="https://github.com/yashitanamdeo/anthy16/"></a>
 I'm Anders, a **software engineer** from Denmark.
 
 - 🔭 I’m currently working on a game! :video_game:
@@ -31,6 +30,3 @@ I'm Anders, a **software engineer** from Denmark.
 [![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]()
 [![Google Cloud Badge](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
 [![Azure Badge](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)]()
-
-# These Are My Stats! :1234:	
-<a href="#"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=anthy16&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthy16&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
